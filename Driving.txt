@@ -4,5 +4,7 @@ get the keys
 open the car door
 put on the keys to start
 
+run the acclerator
+
 
 done
